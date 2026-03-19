@@ -306,7 +306,7 @@ namespace CoffeeShop
 
         private void btnCancelItem_CNO_Click(object sender, EventArgs e)
         {
-            if (currentOrder.Count >= 0 || !string.IsNullOrWhiteSpace(tboCustomerName_CNO.Text))
+            if (currentOrder.Count > 0 || !string.IsNullOrWhiteSpace(tboCustomerName_CNO.Text))
             {
                 DialogResult result = MessageBox.Show(
                     "Cancel this order?", "Confirm Cancel",

@@ -57,8 +57,6 @@ namespace CoffeeShop.Controllers
                                 cmd.CommandText = "SELECT @@IDENTITY";
                                 orderID = Convert.ToInt32(cmd.ExecuteScalar());
 
-                                MessageBox.Show($"Order: {orderID}");
-
                             }
 
                             transCommit.Commit();

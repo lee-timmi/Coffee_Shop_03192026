@@ -129,7 +129,7 @@ namespace CoffeeShop
             newMenuItem.Title = txtTitle_AMI.Text.Trim();
             newMenuItem.Description = txtDescription_AMI.Text.Trim();
             newMenuItem.Category = cboCategory_AMI.SelectedItem.ToString();
-            newMenuItem.RetailPrice = (decimal)Convert.ToDouble(txtPrice_AMI.Text);
+            newMenuItem.RetailPrice = Convert.ToDecimal(txtPrice_AMI.Text);
             newMenuItem.ImageUrl = txtImageURL_AMI.Text.Trim();
             newMenuItem.Calories = Convert.ToInt32(txtCalories_AMI.Text);
             newMenuItem.Fat = (int)Convert.ToDouble(txtFat_AMI.Text);
@@ -150,7 +150,7 @@ namespace CoffeeShop
             txtImageURL_AMI.Text = null;
             txtCalories_AMI.Text = "0";
             txtFat_AMI.Text = "0.0";
-            txtCalories_AMI.Text = "0.0";
+            txtCarbs_AMI.Text = "0.0";
             txtSugar_AMI.Text = "0.0";
             txtIngredients_AMI.Clear();
 

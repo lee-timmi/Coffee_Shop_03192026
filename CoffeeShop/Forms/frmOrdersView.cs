@@ -189,8 +189,6 @@ namespace CoffeeShop
                 lblOrderheader.Text = $"Order #{selectedOrder.OrderID} - " +
                     $"{selectedOrder.CustomerName} - {selectedOrder.OrderDateTime:g}";
 
-                LoadOrderItems(selectedOrder.OrderID);
-
                 // Setting up the user's email
                 if (!string.IsNullOrWhiteSpace(selectedOrder.CustomerEmail))
                 {
