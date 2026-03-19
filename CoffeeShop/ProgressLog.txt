@@ -1,0 +1,21 @@
+﻿
+Code finished on...
+	- frmModifyMenuItem.cs
+	- frmMenuDisplay.cs
+	- frmMain.cs
+	- frmAddMenuItem.cs
+	- frmCreateOrder.cs
+	- frmOrdersView.cs
+
+Unfinished code...
+	- frmAddMenuItem.cs (Working on...) (FINISHED)
+	- frmCreateOrder.cs (FINISHED)
+	- frmOrdersView.cs (FINISHED)
+
+Troubleshooting...
+	- Create Order works when placing an order.
+		- ISSUE: Doesn't save to DB, therefore not showing up on OrdersView.cs DGV.
+			== METHODS are all done. SaveOrder is done.
+
+	- Error with Data Types not matching..
+		- Occuring in SaveOrder method.

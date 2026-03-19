@@ -1,0 +1,16 @@
+E:\School Related\TEMPLE\SPRING 2026\CIS3309\Lab\Lab03\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.accdb
+E:\School Related\TEMPLE\SPRING 2026\CIS3309\Lab\Lab03\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.exe.config
+E:\School Related\TEMPLE\SPRING 2026\CIS3309\Lab\Lab03\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.exe
+E:\School Related\TEMPLE\SPRING 2026\CIS3309\Lab\Lab03\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.pdb
+E:\School Related\TEMPLE\SPRING 2026\CIS3309\Lab\Lab03\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.csproj.AssemblyReference.cache
+E:\School Related\TEMPLE\SPRING 2026\CIS3309\Lab\Lab03\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.frmAddMenuItem.resources
+E:\School Related\TEMPLE\SPRING 2026\CIS3309\Lab\Lab03\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.frmCreateOrder.resources
+E:\School Related\TEMPLE\SPRING 2026\CIS3309\Lab\Lab03\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.frmMain.resources
+E:\School Related\TEMPLE\SPRING 2026\CIS3309\Lab\Lab03\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.frmMenuDisplay.resources
+E:\School Related\TEMPLE\SPRING 2026\CIS3309\Lab\Lab03\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.frmModifyMenuItem.resources
+E:\School Related\TEMPLE\SPRING 2026\CIS3309\Lab\Lab03\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.frmOrdersView.resources
+E:\School Related\TEMPLE\SPRING 2026\CIS3309\Lab\Lab03\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.Properties.Resources.resources
+E:\School Related\TEMPLE\SPRING 2026\CIS3309\Lab\Lab03\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.csproj.GenerateResource.cache
+E:\School Related\TEMPLE\SPRING 2026\CIS3309\Lab\Lab03\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.csproj.CoreCompileInputs.cache
+E:\School Related\TEMPLE\SPRING 2026\CIS3309\Lab\Lab03\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.exe
+E:\School Related\TEMPLE\SPRING 2026\CIS3309\Lab\Lab03\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.pdb
