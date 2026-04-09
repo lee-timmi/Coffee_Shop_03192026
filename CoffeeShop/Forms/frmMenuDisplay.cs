@@ -248,7 +248,7 @@ namespace CoffeeShop
                     return;
                 }
 
-                frmModifyMenuItem modifyForm = new frmModifyMenuItem(currentItem);
+                frmModifyMenuItem modifyForm = new frmModifyMenuItem(selectedItem);
                 modifyForm.ShowDialog();
                 LoadMenuItems();
                 LoadCategories();

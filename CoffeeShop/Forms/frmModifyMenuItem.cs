@@ -119,7 +119,7 @@ namespace CoffeeShop
             {
                 currentItem.Title = txtTitle_MMI.Text;
                 currentItem.Category = cboCategory.SelectedItem.ToString();
-                currentItem.RetailPrice = (decimal)Convert.ToDouble(txtPrice.Text);
+                currentItem.RetailPrice = Convert.ToDecimal(txtPrice.Text);
                 currentItem.ImageUrl = txtImageUrl.Text;
                 currentItem.Calories = Convert.ToInt32(txtCalories_MMI.Text);
                 currentItem.Fat = (int)Convert.ToDouble(txtFat_MMI.Text);
